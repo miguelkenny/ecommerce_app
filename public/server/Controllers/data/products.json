@@ -1,0 +1,47 @@
+[
+  {
+    "nombre": "Regla",
+    "descripcion": "Regla 20 cm",
+    "precio": "123",
+    "stock": 5,
+    "url": "http://google.com",
+    "id": 1,
+    "timeStamp": 1657062940587
+  },
+  {
+    "nombre": "Goma",
+    "descripcion": "Goma para tinta",
+    "precio": "45",
+    "stock": 2,
+    "url": "http://google.com",
+    "id": 2,
+    "timeStamp": 1657062968719
+  },
+  {
+    "nombre": "Lapicera",
+    "descripcion": "Lapicera Azul",
+    "precio": "56",
+    "stock": 15,
+    "url": "http://google.com",
+    "id": 3,
+    "timeStamp": 1657065094647
+  },
+  {
+    "nombre": "Escuadra (actualizado)",
+    "descripcion": "Escuadra plastica 50cm",
+    "precio": "569",
+    "stock": 0,
+    "url": "http://google.com",
+    "id": 4,
+    "timeStamp": 1657090291671
+  },
+  {
+    "nombre": "Mochila",
+    "descripcion": "Mochila con rueditas",
+    "precio": "1254",
+    "stock": 6,
+    "url": "http://google.com",
+    "id": 5,
+    "timeStamp": 1657090605712
+  }
+]
